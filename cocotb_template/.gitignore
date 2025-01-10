@@ -1,0 +1,32 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+.Python
+*.sqlite3
+
+# Log files
+*.log
+*.tmp
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# HDL compilers or temporary files
+*.o
+*.vcd
+*.out
+
+# IDE/editor configurations
+.vscode/
+.idea/
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db

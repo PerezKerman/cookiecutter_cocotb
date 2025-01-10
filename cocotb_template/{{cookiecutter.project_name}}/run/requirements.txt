@@ -1,0 +1,6 @@
+cocotb
+cocotb-test
+pytest
+pytest-xdist
+pytest-html
+"Set more modules and libraries if needed and erase this line"

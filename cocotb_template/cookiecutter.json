@@ -1,0 +1,17 @@
+{
+    "project_name": "default_project",
+    "company": "SoC-e",
+    "author": "Author",
+    "email": "author@company.com",
+    "project_version": "1.0.0",
+    "number_of_tests": 3,
+    "ip_name": "SpaceWire",
+    "top_module_needed": "Yes",
+    "top_module_language": ["VHDL", "Verilog"],
+    "number_of_ip_instances": 1,
+    "simulator_support": ["ModelSim Simulator","Questa Advanced Simulator",
+                          "Riviera-PRO Simulator", "Active-HDL Simulator", "GHDL",
+                          "Icarus Verilog", "Verilator", "Synopsis VCS", "Cadence Incisive",
+                          "Cadence Xcelium", "Tachyon DA CVC"],
+    "directory_for_compiled_libraries": "Yes"
+}
