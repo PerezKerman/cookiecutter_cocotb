@@ -36,6 +36,7 @@ Once you use this template to create a project, the structure will be as follows
 │   ├── constraints    <- Constraints files of the design if needed.
 │   ├── coregen        <- 
 │   ├── hdl            <- Directory containing the full design HDL scripts (VHDL and Verilog).
+|   ├── testbench      <- Directory containing the HDL versions of the tests (if needed).
 │   └── vivado         <- The original Vivado project of the IP Core.
 │  
 │
