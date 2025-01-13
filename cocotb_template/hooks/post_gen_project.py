@@ -215,7 +215,7 @@ class FileGenerator:
                 compiled_lib_name = simulator_lib_map.get(SIMULATOR_NAME, f"Lib{SIMULATOR_NAME}")
                 os.makedirs(compiled_lib_name, exist_ok=True)
                 print(
-                    "An extra folder has been created for the"
+                    "An extra directory has been created for the"
                     f" compiled libraries: {compiled_lib_name}\n"
                 )
             else:
