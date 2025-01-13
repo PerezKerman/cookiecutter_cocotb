@@ -49,7 +49,7 @@ Once you use this template to create a project, the structure will be as follows
 1. **Create a new project using Cookiecutter:**
    From the GitHub repository:
       ```bash
-      cookiecutter <repo URL>
+      cookiecutter https://github.com/PerezKerman/cookiecutter_cocotb.git
       ```
    or once downloaded the template, in your local directory:
       ```bash
