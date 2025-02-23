@@ -15,7 +15,7 @@ def show_header():
     """
     header = """
     *****************************************************************************************
-    *          CocoTb Testbench Generator for IP Core Validation with Cookiecutter          *
+    *          CocoTB Testbench Generator for IP Core Validation with Cookiecutter          *
     *                                 Automating Excellence!                                *
     *****************************************************************************************
     """
